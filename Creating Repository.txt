@@ -6,8 +6,12 @@
 
 * Name the repository, description and choose whether it should be public or private.
 
-* If file already exists , we can upload them using Uploaf file option.
+* If file already exists , we can upload them using Upload file option.
 
 * If not , we can create new file using Create file option.
 
 * Once done , we should commit the changes.
+
+* If we need to make changes in code , we should create seperate branch to avoid the new code affecting the existing one.
+
+* Once we are good with the newly created code we can merge them into master branch.
