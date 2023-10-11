@@ -1,0 +1,13 @@
+
+
+* Sign in to github.
+
+* Click on 'Create New Repository'.
+
+* Name the repository, description and choose whether it should be public or private.
+
+* If file already exists , we can upload them using Uploaf file option.
+
+* If not , we can create new file using Create file option.
+
+* Once done , we should commit the changes.
